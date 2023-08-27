@@ -4,7 +4,7 @@ Get The weather forecast of 5 days for any city
 
 This app is Deployed on vercel Go Check it out
 
-Link -->> https://weather-app-three-sand.vercel.app/
+Link -->>https://weather-application-navy.vercel.app/
 
 First Glance 
 
